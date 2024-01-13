@@ -1,0 +1,7 @@
+_G.Name = "NgTrHieuDz Hub" -- Put You Name Script Here
+
+_G.Logo = "https://www.roblox.com/library/15961439462/TrHieuDz" -- Enter Your ID Image Here
+
+loadstring(Game:HttpGet"https://raw.githubusercontent.com/ImTienNguyenZ/NguyenTienSimpRose/main/NguyenMinhTienLoader")()
+
+
